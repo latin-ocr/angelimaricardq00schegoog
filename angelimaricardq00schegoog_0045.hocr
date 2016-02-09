@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "angelimaricardq00schegoog_0045.png"; bbox 0 0 4042 5100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 804 1837 3165 2032">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 804 1817 3165 2032">
+     <span class='ocr_line' id='line_1_1' title="bbox 804 1837 3165 2032; baseline -0.03 -19"><span class='ocrx_word' id='word_1_1' title='bbox 804 1908 1100 2012; x_wconf 62' lang='lat' dir='ltr'>anno</span> <span class='ocrx_word' id='word_1_2' title='bbox 1124 1896 1360 2032; x_wconf 68' lang='lat' dir='ltr'>legio</span> <span class='ocrx_word' id='word_1_3' title='bbox 1388 1848 2825 2020; x_wconf 56' lang='lat' dir='ltr'>affe-oycccc-lm-mmlmpost</span> <span class='ocrx_word' id='word_1_4' title='bbox 2853 1837 3033 1948; x_wconf 60' lang='grc' dir='ltr'>’σίιὶ</span> <span class='ocrx_word' id='word_1_5' title='bbox 3081 1864 3165 1944; x_wconf 67' lang='grc' dir='ltr'>εἰ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 812 2032 1668 2304">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 812 2032 1668 2304">
+     <span class='ocr_line' id='line_1_2' title="bbox 816 2032 1668 2152; baseline -0.031 -11"><span class='ocrx_word' id='word_1_6' title='bbox 816 2032 1188 2152; x_wconf 66' lang='grc' dir='ltr'>πιῡθεῐὶἰ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1208 2048 1668 2128; x_wconf 69' lang='lat' dir='ltr'>maturum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 812 2148 1612 2304; baseline -0.03 -23"><span class='ocrx_word' id='word_1_8' title='bbox 812 2148 1612 2304; x_wconf 60' lang='grc' dir='ltr'>ῐὲωῑοῃιειπηπιτῖἒ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1708 1976 3173 2136">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1708 1976 3173 2136">
+     <span class='ocr_line' id='line_1_4' title="bbox 1708 1976 3173 2136; baseline -0.032 -15"><span class='ocrx_word' id='word_1_9' title='bbox 1708 2016 1904 2120; x_wconf 73' lang='lat' dir='ltr'>Cui</span> <span class='ocrx_word' id='word_1_10' title='bbox 1928 2008 2028 2108; x_wconf 76' lang='lat' dir='ltr'>fit</span> <span class='ocrx_word' id='word_1_11' title='bbox 2048 2004 2341 2136; x_wconf 63' lang='lat' dir='ltr'>bonor</span> <span class='ocrx_word' id='word_1_12' title='bbox 2377 2020 2449 2088; x_wconf 67' lang='grc' dir='ltr'>ω</span> <span class='ocrx_word' id='word_1_13' title='bbox 2465 1992 2757 2128; x_wconf 65' lang='lat' dir='ltr'><strong>gloria</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2781 2004 2865 2084; x_wconf 80' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_15' title='bbox 2885 1976 3173 2084; x_wconf 77' lang='lat' dir='ltr'>secula</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
